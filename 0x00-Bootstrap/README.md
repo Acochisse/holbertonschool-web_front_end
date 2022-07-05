@@ -1,1 +1,1 @@
-This directory is related to project - 0x00-Bootstrap
+This directory is related to project 1686 - 0x00-Bootstrap
