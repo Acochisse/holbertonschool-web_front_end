@@ -1,9 +1,6 @@
 function welcomeMessage(fullName) {
-    function closure() {
-      alert(`Welcome ${fullName}`);
-    }
-    return closure;
-  }
-  let guillaume = welcomeMessage('Guillaume');
-  let alex = welcomeMessage('Alex');
-  let fred = welcomeMessage('Fred');
+    alert (`Welcome ${fullName}`);
+}
+    const guillaume = () => welcomeMessage("Guillaume");
+    const alex = () => welcomeMessage("Alex");
+    const fred = () => welcomeMessage("Fred");

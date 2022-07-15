@@ -1,1 +1,1 @@
-This directory is related to project 1688 - 0x00 Javascript Advanced
+This directory is related to project 1688 - Javascript_advanced
